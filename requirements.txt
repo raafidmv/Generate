@@ -1,0 +1,6 @@
+openai==0.28
+streamlit
+opencv-python
+Pillow
+numpy
+streamlit-cropper
